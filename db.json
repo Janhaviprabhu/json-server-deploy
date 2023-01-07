@@ -39,8 +39,6 @@
             "confirmpassword":"janhavi1234"
         }
     ],
-    "tasks":[{
-                "task1":"Learn React"
-            }
+    "tasks":["learn react", "Learn node","learn Redux"
             ]
 }
