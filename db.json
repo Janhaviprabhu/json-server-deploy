@@ -29,7 +29,6 @@
             "password":"janhavi1234",
             "confirmpassword":"janhavi1234"
         }
-
     ],
     "login":[
         {
@@ -37,12 +36,11 @@
             "username":"janhavi2604",
             "email":"janhavi2604@gmail.com",
             "password":"janhavi1234",
-            "confirmpassword":"janhavi1234",
-            "tasks":[{
+            "confirmpassword":"janhavi1234"
+        }
+    ],
+    "tasks":[{
                 "task1":"Learn React"
             }
             ]
-        }
-
-    ]
 }
