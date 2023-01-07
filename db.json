@@ -20,5 +20,19 @@
             "Description": "Tata Altroz with all original documents",
             "Price": 500000
         }
+    ],
+    "user":[
+        {
+            "id":1,
+            "username":"janhavi2604",
+            "email":"janhavi2604@gmail.com",
+            "password":"janhavi1234",
+            "confirmpassword":"janhavi1234",
+            "tasks":[{
+                "task1":"Learn React"
+            }
+            ]
+        }
+
     ]
 }
